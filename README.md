@@ -118,10 +118,10 @@ Hi 👋, I'm Akshit Suri</h1>
 
 <div style="display:inline-flex;flex-direction:row; justify-content:center; align-items:center;flex-wrap:wrap;">
 
-[![varunramnani](https://img.shields.io/badge/Akshit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkshitSuri3)
+[![akshitsuri](https://img.shields.io/badge/Akshit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkshitSuri3)
 
-[![varunramnani](https://img.shields.io/badge/Akshit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-suri-54a5611a9/)
+[![akshitsuri](https://img.shields.io/badge/Akshit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-suri-54a5611a9/)
 
-[![varunramnani](https://img.shields.io/badge/Akshit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.akshitsuri@gmail.com)
+[![akshitsuri](https://img.shields.io/badge/Akshit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.akshitsuri@gmail.com)
 
 </div>
