@@ -23,6 +23,7 @@ Hi 👋, I'm Akshit Suri</h1>
 ## Experience
 
 - I am a **4th Year Computer Science Undergraduate** student at Manipal University Jaipur.
+- Full Stack developer at **Toppersnotes** 
 - Former intern at **Codemath** and **The Sparks Foundation**.
 - Winner of **HackCoVIT 2020** and **MUJHacks 2.0**, Finalists at **SAP Labs Semicolon Hackathon**.
 - Worked on projects - Data Submission Portal, WellPass, Blockchain based product verification, Gamers World, Apni Shiksha.
